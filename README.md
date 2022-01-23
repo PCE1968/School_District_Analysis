@@ -14,6 +14,6 @@ Now that we know our starting point, let's address the Ninth grade scores at Tho
 
 We can see that we've done this correctly when we look at the student data output and see the ninth gradfe scores got Thomas High School students now report as NaN.
 
-![Thiomas High School, ninth grade scores replaced with NaN](Resource/Thomas_summary_with_Nan.png)
+![Thiomas High School, ninth grade scores replaced with NaN](Resource/Thomas_summary_with_Nans.png)
 
 
