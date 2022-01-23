@@ -16,10 +16,14 @@ We can see that we've done this correctly when we look at the student data outpu
 
 ![Thomas High School, ninth grade scores replaced with NaN](Resources/Replace_Thomas9_With_Nan.png)
 
-Now the Thoms High School summary looks like this>
+Having replaced the ninth grade scores with NaN, we can compare the updated Thoms High School summary to the original summary.
 
+Original Thomas High summary:
+![Thomas High School, Original summary](Resources/Original_Thomas_summary.png)
+
+Updated summary after replacing ninth grade scores:
 ![Thomas High School, updated summary with NaN](Resources/Thomas_summary_with_Nans.png)
 
-By simply replacing the ninth grade scores with NaN, we can see that this drastically impacts the 
+
 
 
