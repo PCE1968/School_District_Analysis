@@ -12,8 +12,14 @@ To understand any changes we must first consider the orignal analysis. Here is t
 
 Now that we know our starting point, let's address the Ninth grade scores at Thomas High School. To do this we will replace all of the Ninth grade scores with NaN, so their values no longer effect Thomas High Schools score averages and percentages. To do this we will employ the np.nan function from the numpy library.
 
-We can see that we've done this correctly when we look at the student data output and see the ninth gradfe scores got Thomas High School students now report as NaN.
+We can see that we've done this correctly when we look at the student data output and see the ninth grade scores for Thomas High School students now report as NaN.
 
-![Thiomas High School, ninth grade scores replaced with NaN](Resources/Replace_Thomas9_With_Nan.png)
+![Thomas High School, ninth grade scores replaced with NaN](Resources/Replace_Thomas9_With_Nan.png)
+
+Now the Thoms High School summary looks like this>
+
+![Thomas High School, updated summary with NaN](Resources/Thomas_summary_with_Nans.png)
+
+By simply replacing the ninth grade scores with NaN, we can see that this drastically impacts the 
 
 
