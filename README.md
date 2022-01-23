@@ -62,6 +62,6 @@ Thomas High School was originally second on the list of top schools as illustrat
 
 Looking at the updated Top School list we see that Thomas has a slightly lower % Overall Passing score, but not low enough to move them from their position on the list, as illustrated below.
 
-![District summary after Thoms High School ninth grade score adjust,emt](Resources/Thomas9NaN_District_Summary.png)
+![District summary after Thoms High School ninth grade score adjust,emt](Resources/Thomas9NaN_TopSchools.png)
 
 
