@@ -5,7 +5,7 @@ The school board has determined that there was a problem with some of the test s
 ## Purpose
 The purpose of this analysis is to gage the impact of the scores for the ninth grade students at Thomas High School. This will be done by removing the scores for all ninth graders at Thomas High School, repeating the district calculations and comparing the outcomes.
 
-## Results
+## Analysis
 
 ### Starting Point
 To understand any changes we must first consider the orignal analysis. Here is the original summary for Thomas High School:
@@ -49,5 +49,19 @@ Original Thomas High School summary:
 Normalized Thomas High School summary:
 
 ![Thomas High School, Normalized summary](Resources/Normalized_Thomas_summary.png)
+
+The Average Math Score is still slightly lower and the Average Reading Score is still slightly higher, but now:
+    - % Passing Math is slightly lower
+    - % Passing Reading is also slightly lower
+    - leading to an % Overall Passing this is slightly lower
+
+### Impact on Top Schools list
+Thomas High School was originally second on the list of top schools as illustrated below.
+
+![Original Top School list](Resources/Original_TopSchools.png)
+
+Looking at the updated Top School list we see that Thomas has a slightly lower % Overall Passing score, but not low enough to move them from their position on the list, as illustrated below.
+
+![District summary after Thoms High School ninth grade score adjust,emt](Resources/Thomas9NaN_District_Summary.png)
 
 
