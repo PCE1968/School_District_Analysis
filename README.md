@@ -51,9 +51,9 @@ Normalized Thomas High School summary:
 ![Thomas High School, Normalized summary](Resources/Normalized_Thomas_summary.png)
 
 The Average Math Score is still slightly lower and the Average Reading Score is still slightly higher, but now:
-    - % Passing Math is slightly lower
-    - % Passing Reading is also slightly lower
-    - leading to an % Overall Passing this is slightly lower
+- % Passing Math is slightly lower
+- % Passing Reading is also slightly lower
+- leading to an % Overall Passing this is slightly lower
 
 ### Impact on Top Schools list
 Thomas High School was originally second on the list of top schools as illustrated below.
