@@ -31,9 +31,9 @@ Updated summary after replacing ninth grade scores:
 ![Thomas High School, updated summary with NaN](Resources/Thomas_summary_with_Nans.png)
 
 Since changing the scores doesn't change the number of students, first five columns are identical. When we get to the scores we can see the impact.
-    - Average Math Score has drop slightly
-    - Average Reading Score has gone up slightly
-    - % Passing Math, Reading and Overall have all dropped significantly
+- Average Math Score has drop slightly
+- Average Reading Score has gone up slightly
+- % Passing Math, Reading and Overall have all dropped significantly
 
 The current updated summary no longer has the scores for the ninth grade students, effectively setting their scores to zero, which is significantly skewing the percentages.
 
