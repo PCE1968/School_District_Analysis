@@ -51,17 +51,53 @@ Normalized Thomas High School summary:
 ![Thomas High School, Normalized summary](Resources/Normalized_Thomas_summary.png)
 
 The Average Math Score is still slightly lower and the Average Reading Score is still slightly higher, but now:
-- % Passing Math is slightly lower
-- % Passing Reading is also slightly lower
-- leading to an % Overall Passing this is slightly lower
+- % Passing Math is only slightly lower
+- % Passing Reading is also only slightly lower
+- leading to an % Overall Passing this is only slightly lower
 
 ### Impact on Top Schools list
 Thomas High School was originally second on the list of top schools as illustrated below.
 
 ![Original Top School list](Resources/Original_TopSchools.png)
 
-Looking at the updated Top School list we see that Thomas has a slightly lower % Overall Passing score, but not low enough to move them from their position on the list, as illustrated below.
+Looking at the updated Top School list we see that Thomas High School has a slightly lower % Overall Passing score, but not low enough to move them from their position on the list, as illustrated below.
 
 ![District summary after Thoms High School ninth grade score adjust,emt](Resources/Thomas9NaN_TopSchools.png)
 
+### Impact on Scores by school spending
 
+Thomas High School is in the $630-644 per student range. Here is a look at the original summary and the updated summary.
+
+#### Original Scores by school spending summary
+![Original Scores by school spending summary](Resources/Original_scores_by_spending.png)
+
+#### Updated Scores by school spending
+![Updated Scores by school spending](ths9_scores_by_spending.png)
+
+These are virtually identical. To see any impact you would have to go out to the hundereths digit, which is insignificant to these calculations.
+
+### Impact on Scores by school size
+
+Thomas High School has an enrollment of 1635 students. Any impact would be observed in the Medium(1000-2000) range scores. Here is a look a the original summary and the updated summary.
+
+#### Original Scores by school size summary
+![Original Scores by school size summary](Resources/Original_scores_by_size.png)
+
+#### Updated Scores by school size summary
+![Updated Scores by school size summary](Resources/ths9_scores_by_size.png)
+
+Again, these are virtually identical. To see any impact you would have to go out to the hundereths digit, which is insignificant to these calculations.
+
+### Impact on Scores by Type
+
+Thomas High School is a charter school. Any impact would effect the Charter scores. Here is a look a the original summary and the updated summary.
+
+#### Original Scores by school type summary
+![Original Scores by school type summary](Resources/Original_scores_by_type.png)
+
+#### Updated Scores by school type summary
+![Updated Scores by school type summary](Resources/ths9_scores_by_type.png)
+
+Again, these are virtually identical. To see any impact you would have to go out to the hundereths digit, which is insignificant to these calculations.
+
+## Summary
