@@ -16,7 +16,7 @@ To understand any changes we must first consider the orignal analysis. Here is t
 Now that we know our starting point, let's address the Ninth grade scores at Thomas High School. To do this we will replace all of the Ninth grade scores with NaN, so their values no longer effect Thomas High Schools score averages and percentages. To do this we will employ the np.nan function from the numpy library.
 
 #### Replace Thomas High School ninth grade scores with NaN
-We can see that we've done this correctly when we look at the student data output and see the ninth grade scores for Thomas High School students now report as NaN.
+We can see that we've done this correctly when we look at the student data output and see the scores for Thomas High School ninth grade students now report as NaN.
 
 ![Thomas High School, ninth grade scores replaced with NaN](Resources/Replace_Thomas9_With_Nan.png)
 
@@ -30,7 +30,7 @@ Updated summary after replacing ninth grade scores:
 
 ![Thomas High School, updated summary with NaN](Resources/Thomas_summary_with_Nans.png)
 
-Since changing the scores doesn't change the number of students, first five columns are identical. When we get to the scores we can see the impact.
+Since changing the scores doesn't change the number of students, the first five columns are identical. When we get to the scores we can see the impact.
 - Average Math Score has drop slightly
 - Average Reading Score has gone up slightly
 - % Passing Math, % Passing Reading and % Overall Passing have all dropped significantly
@@ -101,3 +101,4 @@ Thomas High School is a charter school. Any impact would effect the Charter scor
 Again, these are virtually identical. To see any impact you would have to go out to the hundereths digit, which is insignificant to these calculations.
 
 ## Summary
+As this analysis clearly demonstrates, removing the Thomas High School ninth grade scores does change the Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, and % Overall Passing values for Thomas High School, but not in any significant way, with the greatest change occuring with the % Overall Passing value decreasing by 0.31%. This has no significant impact on the district summaries when viewed by spending, school size or school type.
